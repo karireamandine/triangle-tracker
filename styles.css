@@ -16,3 +16,9 @@
     border-right:200px solid transparent;
     border-bottom:80px solide red; 
 }
+#nottrianngle{
+    width:0;
+    border: left 100px solid transparent;
+    border-right:100px solid transparent;
+    border-bottom:200px solide red; 
+}
