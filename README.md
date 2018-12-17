@@ -14,8 +14,6 @@ Specification: Triangle Tracker
 This website allows the user to input the lengths of the sides of a triangle, and return whether these sides form an equilateral, isoscele or scalene triangle or if the sides cannot make a triangle at all.
 ## Setup/Installation Requirements
 No setup is required! All you need is internet connection.
-## Known Bugs
-There are no bugs
 ## Technologies Used
 This page was made using:
 HTML 
