@@ -7,4 +7,6 @@
 #isoscles{
     width:0;
     border: left 100px solid transparent;
-    
+    border-right:100px solid transparent;
+    border-bottom:80px solide red; 
+}
