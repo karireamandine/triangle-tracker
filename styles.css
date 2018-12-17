@@ -22,3 +22,8 @@
     border-right:100px solid transparent;
     border-bottom:200px solide red; 
 }
+body{
+    background-color: gray;
+    font-size: 25px;
+    text-align: center;
+}
