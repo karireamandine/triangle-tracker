@@ -16,13 +16,8 @@
     border-right:200px solid transparent;
     border-bottom:200px solid brown; 
 }
-#nottrianngle{
-    width:0;
-    border: left 100px solid transparent;
-    border-right:100px solid transparent;
-    border-bottom:200px solid brown; 
-    
-}
+
+
 body{
     background-color:pink;
     font-size:25px;
